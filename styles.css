@@ -1,7 +1,7 @@
 body{
   display:flex;
   flex-direction:column;
-  align-text:center;
+  test-align:center;
   align-items: center;
   justify-content: space-evenly;
 }
