@@ -1,4 +1,6 @@
 body{
   display:flex;
-  align-items: column;
+  flex-direction:column;
+  align-text:center;
+  align-items: center;
 }
