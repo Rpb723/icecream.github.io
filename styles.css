@@ -3,5 +3,5 @@ body{
   flex-direction:column;
   test-align:center;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: center;
 }
