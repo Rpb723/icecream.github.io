@@ -3,4 +3,5 @@ body{
   flex-direction:column;
   align-text:center;
   align-items: center;
+  justify-content: space-evenly;
 }
